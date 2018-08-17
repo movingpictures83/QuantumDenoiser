@@ -1,0 +1,2 @@
+Prefix plugins/QuantumDenoiser/example/
+Plugin QuantumDenoiser inputfile abundN.quanta.csv outputfile abundN.quanta.denoised.csv
