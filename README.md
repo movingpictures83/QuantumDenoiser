@@ -2,7 +2,8 @@
 # Language: Python
 # Input: CSV (file of quanta produced by CKMeans)
 # Output: CSV (denoised quanta)
-# Tested with: PluMA 1.0, Python 2.7
+# Tested with: PluMA 1.1, Python 3.6
+# Dependency: numpy==1.16.0
 
 PluMA plugin that accepts as input a file of samples and quanta,
 which can be produced through the plugin CKMeans:
